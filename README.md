@@ -1,2 +1,2 @@
 # hello-world
-this repository is a test for my Git learning!
+This repository is a test for my Git learning!
